@@ -1,0 +1,2 @@
+#!/bin/bas
+export POWER DIVIDE | $(echo "$POWER / $DIVIDE" | bc)
